@@ -1,0 +1,11 @@
+{
+  "architecture": "standard",
+  "workload": "uniform",
+  "N": 16,
+  "shape": "16x16",
+  "heat_scale": 0.1,
+  "peak_temp": 28.929645538330078,
+  "min_temp": 28.929645538330078,
+  "avg_temp": 28.929649353027344,
+  "temp_gradient": 0.0
+}

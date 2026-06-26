@@ -1,0 +1,11 @@
+{
+  "architecture": "standard",
+  "workload": "checkerboard",
+  "N": 2,
+  "shape": "2x2",
+  "heat_scale": 0.1,
+  "peak_temp": 27.029340744018555,
+  "min_temp": 26.900306701660156,
+  "avg_temp": 26.964824676513672,
+  "temp_gradient": 0.12903404235839844
+}

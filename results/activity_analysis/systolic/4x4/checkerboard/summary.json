@@ -1,0 +1,12 @@
+{
+  "architecture": "systolic",
+  "workload": "checkerboard",
+  "N": 4,
+  "shape": "4x4",
+  "sum_activity": 104,
+  "max_activity": 7,
+  "min_activity": 6,
+  "mean_activity": 6.5,
+  "std_activity": 0.5,
+  "nonzero_cells": 16
+}

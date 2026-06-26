@@ -1,0 +1,11 @@
+{
+  "architecture": "systolic",
+  "workload": "hotspot",
+  "N": 16,
+  "shape": "16x16",
+  "heat_scale": 0.1,
+  "peak_temp": 30.626827239990234,
+  "min_temp": 25.437204360961914,
+  "avg_temp": 28.794584274291992,
+  "temp_gradient": 5.18962287902832
+}

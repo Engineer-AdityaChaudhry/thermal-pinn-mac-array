@@ -1,0 +1,11 @@
+{
+  "architecture": "systolic",
+  "workload": "uniform",
+  "N": 8,
+  "shape": "8x8",
+  "heat_scale": 0.1,
+  "peak_temp": 31.22166633605957,
+  "min_temp": 30.439380645751953,
+  "avg_temp": 30.747116088867188,
+  "temp_gradient": 0.7822856903076172
+}

@@ -1,0 +1,12 @@
+{
+  "architecture": "standard",
+  "workload": "uniform",
+  "N": 16,
+  "shape": "16x16",
+  "sum_activity": 2560,
+  "max_activity": 10,
+  "min_activity": 10,
+  "mean_activity": 10.0,
+  "std_activity": 0.0,
+  "nonzero_cells": 256
+}

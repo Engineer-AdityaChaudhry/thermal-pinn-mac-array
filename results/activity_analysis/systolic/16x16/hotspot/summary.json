@@ -1,0 +1,12 @@
+{
+  "architecture": "systolic",
+  "workload": "hotspot",
+  "N": 16,
+  "shape": "16x16",
+  "sum_activity": 2472,
+  "max_activity": 19,
+  "min_activity": 0,
+  "mean_activity": 9.65625,
+  "std_activity": 5.75602605427564,
+  "nonzero_cells": 192
+}

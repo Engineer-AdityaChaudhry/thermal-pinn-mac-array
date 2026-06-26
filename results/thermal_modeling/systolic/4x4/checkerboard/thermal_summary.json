@@ -1,0 +1,11 @@
+{
+  "architecture": "systolic",
+  "workload": "checkerboard",
+  "N": 4,
+  "shape": "4x4",
+  "heat_scale": 0.1,
+  "peak_temp": 27.58098602294922,
+  "min_temp": 27.527557373046875,
+  "avg_temp": 27.554271697998047,
+  "temp_gradient": 0.05342864990234375
+}

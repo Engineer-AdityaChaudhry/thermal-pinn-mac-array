@@ -1,0 +1,12 @@
+{
+  "architecture": "systolic",
+  "workload": "uniform",
+  "N": 4,
+  "shape": "4x4",
+  "sum_activity": 212,
+  "max_activity": 15,
+  "min_activity": 12,
+  "mean_activity": 13.25,
+  "std_activity": 0.9682458365518543,
+  "nonzero_cells": 16
+}

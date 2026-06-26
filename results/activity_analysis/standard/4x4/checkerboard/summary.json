@@ -1,0 +1,12 @@
+{
+  "architecture": "standard",
+  "workload": "checkerboard",
+  "N": 4,
+  "shape": "4x4",
+  "sum_activity": 80,
+  "max_activity": 10,
+  "min_activity": 0,
+  "mean_activity": 5.0,
+  "std_activity": 5.0,
+  "nonzero_cells": 8
+}

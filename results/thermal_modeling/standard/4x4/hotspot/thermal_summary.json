@@ -1,0 +1,11 @@
+{
+  "architecture": "standard",
+  "workload": "hotspot",
+  "N": 4,
+  "shape": "4x4",
+  "heat_scale": 0.1,
+  "peak_temp": 26.54804801940918,
+  "min_temp": 25.68393325805664,
+  "avg_temp": 25.98241424560547,
+  "temp_gradient": 0.8641147613525391
+}

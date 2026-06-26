@@ -1,0 +1,12 @@
+{
+  "architecture": "standard",
+  "workload": "hotspot",
+  "N": 2,
+  "shape": "2x2",
+  "sum_activity": 10,
+  "max_activity": 10,
+  "min_activity": 0,
+  "mean_activity": 2.5,
+  "std_activity": 4.330127018922194,
+  "nonzero_cells": 1
+}
